@@ -10,7 +10,7 @@
 ### Global python3 installation:
 1. Open terminal and locate folder to copy to
 2. `git clone https://github.com/kailau02/ascii-transformer.git`
-3. `pip3 install python-opencv numpy pillow`
+3. `pip3 install opencv-python numpy pillow`
 
 ## How to Use
 In `main.py`, you must instantiate the `ASCIITransformer` class-object and then you can call methods to transform images and videos to ASCII representations
