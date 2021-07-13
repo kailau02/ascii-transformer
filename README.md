@@ -35,3 +35,6 @@ Call the video capture method using `obj.transform_to_video()`
 * Open an existing image on object instantiation like: `obj = ASCIITransformer(fname="image.jpeg")`
 * Or, open an image directly from the object like: `obj.open(fname="image.jpeg")`
 * Convert the image to an ASCII text file like: `obj.transform_to_txt(fname="resulting-text.txt")`
+
+## Video Example
+[![Dolly Zoom Video Example](https://img.youtube.com/vi/Ad_T9uC9uCg/0.jpg)](https://www.youtube.com/watch?v=Ad_T9uC9uCg)
